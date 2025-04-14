@@ -5,6 +5,11 @@
 <p align="center">
   I'm <strong>Aswin Sai</strong>, a passionate developer interested in AI, web development, and digital marketing. 🚀
 </p>
+<br>
+
+<p align="center">
+  <img src="banner.jpg" alt="Banner" width="1200" height="250"/>
+</p>
 
 
 
