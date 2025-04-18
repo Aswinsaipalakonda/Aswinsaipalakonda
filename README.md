@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img src="banner.jpg" alt="Banner" width="1200" height="250"/>
+  <img src="banner.jpg" alt="Banner" width="1000"/>
 </p>
 
 
