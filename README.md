@@ -11,7 +11,6 @@
 </p>
 
 
-
 # 💫 About Me:
 🔭 I’m currently working on Homessy – a grocery delivery platform with real-time tracking, WhatsApp order integration, and dynamic product management.<br>👯 I’m looking to collaborate on real-world AI/ML projects, hackathons, and open-source initiatives focused on social good.<br>🤝 I’m looking for help with optimizing AI pipelines and integrating Supabase with React for scalable apps.<br>🌱 I’m currently learning AI agents, advanced frontend development, and mobile app monetization strategies.<br>💬 Ask me about digital marketing, hackathon strategies, and building full-stack apps with React and Supabase.<br>⚡ Fun fact: I've built projects that range from landing pages to e-commerce platforms—all before finishing my B.Tech!
 
@@ -35,4 +34,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Aswinsaipalakonda&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
