@@ -1,19 +1,35 @@
-<h1 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">  
-</h1>
+
+<div align="center" style="display: flex; justify-content: space-between; flex-direction: row;">
+  <!--<img src="./img/banner.png" width="100%">  -->
+  <h1> Hi <img src="./img/hi-gif.gif" width="35" align="center">, I'm Aswin Sai <img src="./img/sunglasses.gif" width="35" align="center"> </h1>
+</div>
 
 <p align="center">
-  I'm <strong>Aswin Sai</strong>, a passionate developer interested in AI, web development, and digital marketing. 🚀
+  A passionate developer interested in AI, web development, and digital marketing. 🚀
 </p>
 
 <p align="center">
   <img src="banner.jpg" alt="Banner" width="1000"/>
 </p>
 
-
 # 💫 About Me:
-🔭 I’m currently working on Homessy – a grocery delivery platform with real-time tracking, WhatsApp order integration, and dynamic product management.<br>👯 I’m looking to collaborate on real-world AI/ML projects, hackathons, and open-source initiatives focused on social good.<br>🤝 I’m looking for help with optimizing AI pipelines and integrating Supabase with React for scalable apps.<br>🌱 I’m currently learning AI agents, advanced frontend development, and mobile app monetization strategies.<br>💬 Ask me about digital marketing, hackathon strategies, and building full-stack apps with React and Supabase.<br>⚡ Fun fact: I've built projects that range from landing pages to e-commerce platforms—all before finishing my B.Tech!
 
+<table align="center">
+  <tr>
+    <td>
+      <ul>
+        <li>🔭 I’m currently working on Homessy – a grocery delivery platform with real-time tracking, WhatsApp order integration, and dynamic product management.</li>
+        <li>👯 I’m looking to collaborate on real-world AI/ML projects, hackathons, and open-source initiatives focused on social good.</li>
+        <li>🌱 I’m currently learning AI agents, advanced frontend development, and mobile app development.</li>
+        <li>⚡ <strong>Fun fact:</strong> I've built projects that range from landing pages to e-commerce platforms—all before finishing my B.Tech!</li>
+        <li>📫 <strong>How to reach me:</strong> aswinsaipalakonda@gmail.com</li>
+      </ul>
+    </td>
+    <td>
+      <img alt="coding" width="400" src="./img/coding-gif.gif"/>
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__itz_aswin/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aswinsaipalakonda/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://in.pinterest.com/aswinedu1/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Aswin_2545) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Aswin-the-builder) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aswinsaipalakonda@gmail.com) 
