@@ -1,7 +1,7 @@
 
 <div align="center" style="display: flex; justify-content: space-between; flex-direction: row;">
   <!--<img src="./img/banner.png" width="100%">  -->
-  <h1> Hi <img src="./img/hi-gif.gif" width="35" align="center">, I'm Aswin Sai <img src="./img/sunglasses.gif" width="35" align="center"> </h1>
+  <h1> Hi<img src="./img/hi-gif.gif" width="35" align="center">, I'm Aswin Sai <img src="./img/sunglasses.gif" width="35" align="center"> </h1>
 </div>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="banner.jpg" alt="Banner" width="1000"/>
+  <img src="./img/banner.jpg" alt="Banner" width="1000"/>
 </p>
 
 # 💫 About Me:
