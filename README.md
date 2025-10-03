@@ -17,15 +17,6 @@
 <table align="center">
   <tr>
     <td>
-      <ul>
-        <li>🔭 I’m currently working on Homessy – a grocery delivery platform with real-time tracking, WhatsApp order integration, and dynamic product management.</li>
-        <li>👯 I’m looking to collaborate on real-world AI/ML projects, hackathons, and open-source initiatives focused on social good.</li>
-        <li>🌱 I’m currently learning AI agents, advanced frontend development, and mobile app development.</li>
-        <li>⚡ <strong>Fun fact:</strong> I've built projects that range from landing pages to e-commerce platforms—all before finishing my B.Tech!</li>
-        <li>📫 <strong>How to reach me:</strong> aswinsaipalakonda@gmail.com</li>
-      </ul>
-    </td>
-    <td>
       <img alt="coding" width="400" src="./img/coding-gif.gif"/>
     </td>
   </tr>
