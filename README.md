@@ -17,7 +17,7 @@
 <table align="center">
   <tr>
     <td>
-      <img alt="coding" width="400" src="./img/coding-gif.gif"/>
+      <img alt="coding" width="900" src="./img/coding-gif.gif"/>
     </td>
   </tr>
 </table>
