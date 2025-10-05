@@ -7,19 +7,15 @@
 <p align="center">
   A passionate developer interested in AI, web development, and digital marketing. 🚀
 </p>
-
+<!--
 <p align="center">
   <img src="./img/banner.jpg" alt="Banner" width="1000"/>
-</p>
+</p> -->
 
 # 💫 About Me:
 
 <table align="center">
-  <tr>
-    <td>
       <img alt="coding" width="700" src="./img/coding-gif.gif"/>
-    </td>
-  </tr>
 </table>
 
 ## 🌐 Socials:
