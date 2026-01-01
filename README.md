@@ -1,22 +1,23 @@
 
 <div align="center" style="display: flex; justify-content: space-between; flex-direction: row;">
   <!--<img src="./img/banner.png" width="100%">  -->
-  <h1> Hi<img src="./img/hi-gif.gif" width="35" align="center">, I'm Aswin Sai <img src="./img/sunglasses.gif" width="35" align="center"> </h1>
+  <h1> Hi<img src="./img/hi-gif.gif" width="35" align="center">, I'm Aswinsai <img src="./img/sunglasses.gif" width="35" align="center"> </h1>
 </div>
 
-<p align="center">
-  A passionate developer interested in AI, web development, and digital marketing. 🚀
-</p>
 <!--
 <p align="center">
   <img src="./img/banner.jpg" alt="Banner" width="1000"/>
 </p> -->
 
 # 💫 About Me:
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-<table align="center">
-      <img alt="coding" width="700" src="./img/coding-gif.gif"/>
-</table>
+
+<p align="center">
+  A passionate developer interested in AI, web development, and digital marketing. 🚀
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__itz_aswin/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aswinsaipalakonda/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://in.pinterest.com/aswinedu1/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Aswin_2545) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Aswin-the-builder) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aswinsaipalakonda@gmail.com) 
@@ -44,6 +45,12 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 <div align="center">
