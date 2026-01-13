@@ -44,9 +44,6 @@
   <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=powershell" height="60" alt="powershell logo" />
-
-  <br /><br />
-
   <!-- Frameworks & Libraries -->
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
   <img width="12" />
@@ -59,17 +56,11 @@
   <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=threejs" height="60" alt="threejs logo" />
-
-  <br /><br />
-
   <!-- Styling -->
   <img src="https://skillicons.dev/icons?i=sass" height="60" alt="sass logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
   <img width="12" />
-
-  <br /><br />
-
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
   <img width="12" />
@@ -80,9 +71,6 @@
   <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo" />
-
-  <br /><br />
-
   <!-- Cloud & Hosting -->
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
   <img width="12" />
@@ -94,9 +82,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=netlify" height="60" alt="netlify logo" />
   <img width="12" />
-
-  <br /><br />
-
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
   <img width="12" />
@@ -110,9 +95,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo" />
   <img width="12" />
-
-  <br /><br />
-
   <!-- Design & Productivity -->
   <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo" />
   <img width="12" />
@@ -129,9 +111,6 @@
 
 
 ---
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aswinsaipalakonda&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
