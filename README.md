@@ -12,11 +12,11 @@
           <h1 style="color: #FF8C00; text-shadow: 0 0 15px #FF4500; font-size: 2.8em;"><b>Designing The Impossible</b></h1>
           <p style="color: #ffffff; font-size: 1.25em; line-height: 1.6;">
             I am a <b>Digital Architect</b> weaving complex <i>logic</i> into <b>stunning interfaces</b>. 
-            From **Cloud-Native Backends** to **Pixel-Perfect Frontends**, I build the future with 
+            From <b>Cloud-Native Backends</b> to <b>Pixel-Perfect Frontends</b>, I build the future with 
             unrelenting precision and a <b>spicy</b> neon edge. 🚀
           </p>
           <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=1800&pause=400&color=FF5F1F&width=500&lines=%E2%9A%A1+Mastering+The+Stack;%F0%9F%A7%A0+Evolving+With+AI;%F0%9F%9A%80+Deploying+Excellence;%E2%9C%A8+Cyber-Neon+Designs" alt="Typing SVG" />
+            <img src="./img/coding-gif.gif" alt="Typing SVG" />
           </a>
         </div>
       </td>
