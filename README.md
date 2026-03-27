@@ -1,57 +1,47 @@
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff8c00&height=280&section=header&text=Aswinsai%20Palakonda%20&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20AI%20Innovator%20%7C%20Strategic%20Thinker&descSize=20&descAlignY=55&descColor=ffffff" width="100%"/>
-
-<br/>
-
+<!-- ⚡ MODERN HERO SECTION ⚡ -->
 <div align="center">
-
-  <h1> Hi <img src="./img/hi-gif.gif" width="45">, I'm Aswinsai <img src="./img/sunglasses.gif" width="40"> </h1>
-
-  <!-- Typing Animation - Vibrant Orange -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&repeat=true&random=false&width=600&lines=%E2%9C%A8+Architecting+the+Future+with+Code;%F0%9F%9A%80+Full+Stack+Development+%26+AI;%F0%9F%A7%A0+Leveraging+Tech+to+Solve+Problems;%F0%9F%92%8E+Clean+Architecture+%7C+Bold+Designs" alt="Typing SVG" />
-  </a>
-
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=FF4500,FF8C00,FFD700&height=300&section=header&text=Aswinsai%20Palakonda&fontSize=65&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=%F0%9F%9A%80+FULL+STACK+ENGINEER+%7C+%F0%9F%A7%A0+AI+ARCHITECT+%7C+%F0%9F%92%8E+DIGITAL+STRATEGIST&descSize=22&descAlignY=62&descColor=ffffff" width="100%"/>
 </div>
 
 <br/>
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 👤 &nbsp;**Professional Spotlight**
-
-<div align="center">
-  <img alt="Coding" width="460" src="./img/coding-gif.gif"/>
-</div>
-
-<br/>
-
-<!-- User Requested: Keep description in comments -->
-<!-- 
-<p align="center">
-  <strong>Aswinsai Palakonda</strong> is a high-energy <strong>Full Stack Developer</strong> and <strong>AI Enthusiast</strong> 
-  dedicated to building <i>high-performance</i> applications that bridge the gap between complex logic and <b>seamless user experience</b>. 
-  With a background in computer science and strategic marketing, he brings a unique cross-functional perspective to every project.
-</p>
--->
 
 <div align="center">
   <table border="0">
     <tr>
-      <td align="center"><b>🛡️ Enterprise Architecture</b><br/>Building robust systems</td>
-      <td align="center"><b>🎨 Modern Frontend</b><br/>Crafting intuitive UI</td>
-      <td align="center"><b>🧠 AI Integration</b><br/>ML-driven solutions</td>
-      <td align="center"><b>⚡ Performance</b><br/>Optimized execution</td>
+      <td width="60%">
+        <h1> <img src="https://media.giphy.com/media/hvRJCLz56QLT47MYK6/giphy.gif" width="35"> &nbsp;<b>Bonjour! I'm Aswinsai</b> </h1>
+        <p align="left">
+          I'm a <b>passionate technologist</b> dedicated to crafting elegant solutions at the intersection of <i>user needs</i> and <i>system efficiency</i>. 
+          I don't just write code; I build <b>digital experiences</b> that scale and inspire. 
+        </p>
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF8C00&center=false&vCenter=true&width=435&lines=%F0%9F%92%BB+Crafting+Scalable+Architectures;%F0%9F%A4%96+Fine-Tuning+Intelligence-Driven+Systems;%F0%9F%9A%80+Deploying+the+Future+to+the+Edge;%E2%9C%A8+Clean+Code+%7C+Bold+Designs" alt="Typing SVG" />
+        </a>
+      </td>
+      <td width="40%" align="right">
+        <img src="./img/hi-gif.gif" width="180" style="border-radius: 20px;"/>
+      </td>
     </tr>
   </table>
 </div>
 
 <br/>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Current%20Status-Building%20the%20future-FF4500?style=for-the-badge&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Full%20Stack-FF8C00?style=for-the-badge&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20To-Collaborations-FFD700?style=for-the-badge&logoColor=white" />
+</div>
+
+<br/>
+
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <br/>
 
@@ -217,7 +207,9 @@
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <br/>
 
@@ -249,7 +241,9 @@
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <br/>
 
@@ -302,7 +296,9 @@
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <br/>
 
@@ -316,7 +312,9 @@
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <br/>
 
