@@ -1,45 +1,49 @@
-<!-- ⚡ MODERN HERO SECTION ⚡ -->
+<!-- 🏆 ULTRA-MODERN HERO DASHBOARD 🏆 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=FF4500,FF8C00,FFD700&height=300&section=header&text=Aswinsai%20Palakonda&fontSize=65&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=%F0%9F%9A%80+FULL+STACK+ENGINEER+%7C+%F0%9F%A7%A0+AI+ARCHITECT+%7C+%F0%9F%92%8E+DIGITAL+STRATEGIST&descSize=22&descAlignY=62&descColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF8C00,FF2400,FFD700&height=300&section=header&text=Aswinsai%20Palakonda&fontSize=68&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=%E2%9C%A8+Architecting+the+Future+%7C+%F0%9F%A4%96+AI+Expert+%7C+%F0%9F%9A%80+Full+Stack+Maestro&descSize=24&descAlignY=62&descColor=ffffff" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="60%">
-        <h1> <img src="https://media.giphy.com/media/hvRJCLz56QLT47MYK6/giphy.gif" width="35"> &nbsp;<b>Bonjour! I'm Aswinsai</b> </h1>
-        <p align="left">
-          I'm a <b>passionate technologist</b> dedicated to crafting elegant solutions at the intersection of <i>user needs</i> and <i>system efficiency</i>. 
-          I don't just write code; I build <b>digital experiences</b> that scale and inspire. 
-        </p>
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF8C00&center=false&vCenter=true&width=435&lines=%F0%9F%92%BB+Crafting+Scalable+Architectures;%F0%9F%A4%96+Fine-Tuning+Intelligence-Driven+Systems;%F0%9F%9A%80+Deploying+the+Future+to+the+Edge;%E2%9C%A8+Clean+Code+%7C+Bold+Designs" alt="Typing SVG" />
-        </a>
-      </td>
-      <td width="40%" align="right">
-        <img src="./img/hi-gif.gif" width="180" style="border-radius: 20px;"/>
-      </td>
-    </tr>
-  </table>
+
+  <h1> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIzN3JqZHlsbjB4aHp4Zzh6bm16Z3h6bm16Z3h6bm16Z3h6JnB2PTE/WUlplc2O5DxSNoWkhR/giphy.gif" width="45"> &nbsp;<b>WELCOME TO MY DEV-VERSE</b> </h1>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/DEVELOPER-ASWIN-FF8C00?style=for-the-badge&logoColor=white&logo=github" />
+    <img src="https://img.shields.io/badge/STRATEGIST-EXPERTISE-FF4500?style=for-the-badge&logoColor=white&logo=target" />
+    <img src="https://img.shields.io/badge/VISIONARY-BUILDER-FFD700?style=for-the-badge&logoColor=white&logo=sparkles" />
+  </p>
+
+  <br/>
+
+  <div align="center">
+    <table border="0">
+      <tr>
+        <td align="center" width="300">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmw0N3VvZnR4NXJqanBnaHpuenp6enp6enp6enp6enp6enp6enp6JnB2PTE/f3iw7f26Z2eRW/giphy.gif" width="180" style="border-radius: 50%"/>
+        </td>
+        <td align="left">
+          <h3> &nbsp;&nbsp;<b>Who is Aswinsai?</b> </h3>
+          <p align="left">
+            &nbsp;&nbsp;&nbsp;&nbsp;🚀 A high-impact <b>Engineering Generalist</b> specialized in <br/>
+            &nbsp;&nbsp;&nbsp;&nbsp;creating <i>resilient ecosystems</i> through code. <br/>
+            &nbsp;&nbsp;&nbsp;&nbsp;I transform <b>ambitious ideas</b> into <b>shippable realities</b>.
+          </p>
+          <a href="https://git.io/typing-svg">
+            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=FF5F00&width=450&lines=%E2%9A%A1+Mastering+Full+Stack;%F0%9F%A7%A0+Leveraging+Generative+AI;%F0%9F%92%8E+Optimizing+User+Experiences;%F0%9F%94%A5+Building+The+Unbuildable" alt="Typing SVG" />
+          </a>
+        </td>
+      </tr>
+    </table>
+  </div>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Current%20Status-Building%20the%20future-FF4500?style=for-the-badge&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Full%20Stack-FF8C00?style=for-the-badge&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20To-Collaborations-FFD700?style=for-the-badge&logoColor=white" />
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c)
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
@@ -58,11 +62,11 @@
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-  <br><b>JavaScript</b>
+  <br><b>JS</b>
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-  <br><b>TypeScript</b>
+  <br><b>TS</b>
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
@@ -134,7 +138,7 @@
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-  <br><b>PostgreSQL</b>
+  <br><b>Postgres</b>
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
@@ -163,44 +167,6 @@
 </tr>
 </table>
 
-<!-- Row 4: Tools & Platforms -->
-<table>
-<tr>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-  <br><b>Git</b>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-  <br><b>GitHub</b>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
-  <br><b>Vercel</b>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
-  <br><b>Netlify</b>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" />
-  <br><b>Cloudflare</b>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
-  <br><b>Vite</b>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-  <br><b>Figma</b>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" />
-  <br><b>Notion</b>
-</td>
-</tr>
-</table>
-
 </div>
 
 <br/>
@@ -208,6 +174,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c)
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
@@ -217,15 +184,13 @@
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=aswinsaipalakonda&theme=radical&hide_border=true&border_radius=12" alt="Streak Stats"/>
+  <img height="185" src="https://github-readme-streak-stats.herokuapp.com/?user=aswinsaipalakonda&theme=radical&hide_border=true&border_radius=12" alt="Streak Stats"/>
   &nbsp;&nbsp;
-
+  
   <!--
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aswinsaipalakonda&show_icons=true&theme=radical" alt="GitHub Stats"/>
-
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=aswinsaipalakonda&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <br/><br/>
-
-  <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinsaipalakonda&theme=radical&layout=compact" alt="Top Languages"/>
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinsaipalakonda&theme=radical&layout=compact" alt="Top Languages"/>
   -->
 
 </div>
@@ -242,30 +207,15 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c)
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <br/>
 
-<!-- User Requested: Keep achievements in comments -->
-<!-- 
-## 🏆 &nbsp;**Achievements**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aswinsaipalakonda&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
--->
-
 ## 🤝 &nbsp;**Connect With Me**
 
 <div align="center">
-
   <a href="https://linkedin.com/in/aswinsaipalakonda/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -289,7 +239,6 @@
   <a href="mailto:aswinsaipalakonda@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-
 </div>
 
 <br/>
@@ -297,6 +246,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c)
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
@@ -313,6 +263,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c)
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
