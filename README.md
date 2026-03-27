@@ -2,7 +2,7 @@
 <div align="center">
 
   <!-- 🖼️ HERO IMAGE (TOP FOR RESPONSIVITY) -->
-  <div style="background: linear-gradient(135deg, rgba(255, 69, 0, 0.7), rgba(40, 42, 54, 0.9)); border: 4px solid #FF4500; border-radius: 40px; padding: 5px; box-shadow: 0 0 40px rgba(255, 69, 0, 0.6); display: inline-block; width: 95%; max-width: 500px;">
+  <div style="background: linear-gradient(135deg, rgba(255, 69, 0, 0.7), rgba(40, 42, 54, 0.9)); border: 4px solid #FF4500; border-radius: 40px; padding: 5px; box-shadow: 0 0 40px rgba(255, 69, 0, 0.6); display: inline-block; width: 95%; max-width: 480px;">
      <img src="./img/coding-gif.gif" width="100%" style="border-radius: 34px;" />
   </div>
   
@@ -40,10 +40,10 @@
 
 <br/><hr style="border: 1px solid #FF4500;"/><br/>
 
-<!-- 🍱 THE BENTO ANALYTICS GRID (STACKED) 🍱 -->
+<!-- 🍱 THE BENTO ANALYTICS GRID (COMPACT FOR DESKTOP) 🍱 -->
 <div align="center">
-  <!-- STREAK CARD -->
-  <div style="background: linear-gradient(90deg, #FF4500 0%, #0d1117 100%); border-radius: 30px; padding: 3px; box-shadow: 0 5px 25px rgba(255, 69, 0, 0.5); width: 95%; max-width: 850px;">
+  <!-- STREAK CARD (DECREASED SIZE) -->
+  <div style="background: linear-gradient(90deg, #FF4500 0%, #0d1117 100%); border-radius: 30px; padding: 3px; box-shadow: 0 5px 25px rgba(255, 69, 0, 0.5); width: 95%; max-width: 650px;">
     <div style="background-color: #0d1117; border-radius: 27px; padding: 25px;">
       <b style="color: #FFD700; text-shadow: 0 0 10px #FF8C00; font-size: 1.5em;">📊 Streak Mastery</b><br/><br/>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=aswinsaipalakonda&theme=radical&hide_border=true&border_radius=15" width="100%"/>
@@ -52,8 +52,8 @@
   
   <br/>
 
-  <!-- MINDSET CARD -->
-  <div style="background: linear-gradient(90deg, #FFD700 0%, #0d1117 100%); border-radius: 30px; padding: 3px; box-shadow: 0 5px 25px rgba(255, 215, 0, 0.5); width: 95%; max-width: 850px;">
+  <!-- MINDSET CARD (COMPACT FOR DESKTOP) -->
+  <div style="background: linear-gradient(90deg, #FFD700 0%, #0d1117 100%); border-radius: 30px; padding: 3px; box-shadow: 0 5px 25px rgba(255, 215, 0, 0.5); width: 95%; max-width: 650px;">
     <div style="background-color: #0d1117; border-radius: 27px; padding: 25px;">
       <b style="color: #FFD700; text-shadow: 0 0 10px #FF8C00; font-size: 1.5em;">💡 Dev Mindset</b><br/><br/>
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%"/>
@@ -64,36 +64,48 @@
 <br/>
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c)
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 <br/>
 
-<!-- 🛠️ ENHANCED TECH ARSENAL (SPICY GRID) 🛠️ -->
+<!-- 🛠️ ENHANCED TECH ARSENAL (SPICY GRID WITH ALL PREVIOUS SKILLS) 🛠️ -->
 <div align="center">
-  <h2 style="color: #FFD700; text-shadow: 0 0 15px #FF4500; font-size: 2em;"><b>🛠️ THE TECH ARSENAL</b></h2>
+  <h2 style="color: #FFD700; text-shadow: 0 0 15px #FF4500; font-size: 2em;"><b>🛠️ THE FULL TECH ARSENAL</b></h2>
   <br/>
   <table>
     <tr>
-      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=python" width="70" /><br><b>Python</b></td>
-      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=js" width="70" /><br><b>JS</b></td>
-      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=ts" width="70" /><br><b>TS</b></td>
-      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=react" width="70" /><br><b>React</b></td>
-      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=nextjs" width="70" /><br><b>Next.js</b></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=python" width="60" /><br><b>Python</b></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=js" width="60" /><br><b>JavaScript</b></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=ts" width="60" /><br><b>TypeScript</b></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=c" width="60" /><br><b>C</b></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=cpp" width="60" /><br><b>C++</b></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=java" width="60" /><br><b>Java</b></td>
     </tr>
     <tr>
-      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=nodejs" width="70" /><br><b>Node.js</b></td>
-      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=flutter" width="70" /><br><b>Flutter</b></td>
-      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=django" width="70" /><br><b>Django</b></td>
-      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=mysql" width="70" /><br><b>MySQL</b></td>
-      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=postgres" width="70" /><br><b>Postgres</b></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=html" width="60" /><br><b>HTML5</b></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=css" width="60" /><br><b>CSS3</b></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=react" width="60" /><br><b>React</b></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=vite" width="60" /><br><b>Vite</b></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nextjs" width="60" /><br><b>Next.js</b></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=tailwind" width="60" /><br><b>Tailwind</b></td>
     </tr>
     <tr>
-      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=mongodb" width="70" /><br><b>MongoDB</b></td>
-      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=firebase" width="70" /><br><b>Firebase</b></td>
-      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=git" width="70" /><br><b>Git</b></td>
-      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=docker" width="70" /><br><b>Docker</b></td>
-      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=aws" width="70" /><br><b>AWS</b></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=nodejs" width="60" /><br><b>Node.js</b></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=express" width="60" /><br><b>Express</b></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=django" width="60" /><br><b>Django</b></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=flutter" width="60" /><br><b>Flutter</b></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=mysql" width="60" /><br><b>MySQL</b></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=postgres" width="60" /><br><b>Postgres</b></td>
+    </tr>
+    <tr>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=mongodb" width="60" /><br><b>MongoDB</b></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=firebase" width="60" /><br><b>Firebase</b></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=git" width="60" /><br><b>Git</b></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=docker" width="60" /><br><b>Docker</b></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=aws" width="60" /><br><b>AWS</b></td>
+      <td align="center" width="110"><img src="https://skillicons.dev/icons?i=vscode" width="60" /><br><b>VS Code</b></td>
     </tr>
   </table>
 </div>
