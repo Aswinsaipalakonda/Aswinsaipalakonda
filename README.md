@@ -1,138 +1,329 @@
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=280&section=header&text=Aswinsai%20Palakonda%20&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20AI%20Innovator%20%7C%20Strategic%20Thinker&descSize=20&descAlignY=55&descColor=ffffff" width="100%"/>
 
-<div align="center" style="display: flex; justify-content: space-between; flex-direction: row;">
-  <!--<img src="./img/banner.png" width="100%">  -->
-  <h1> Hi<img src="./img/hi-gif.gif" width="35" align="center">, I'm Aswinsai <img src="./img/sunglasses.gif" width="35" align="center"> </h1>
-</div>
+<br/>
 
-<!--
-<p align="center">
-  <img src="./img/banner.jpg" alt="Banner" width="1000"/>
-</p> -->
-
-# 💫 About Me:
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+  <h1> Hi <img src="./img/hi-gif.gif" width="45">, I'm Aswinsai <img src="./img/sunglasses.gif" width="40"> </h1>
+
+  <!-- Typing Animation - Vibrant Blue -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&repeat=true&random=false&width=600&lines=%E2%9C%A8+Architecting+the+Future+with+Code;%F0%9F%9A%80+Full+Stack+Development+%26+AI;%F0%9F%A7%A0+Leveraging+Tech+to+Solve+Problems;%F0%9F%92%8E+Clean+Architecture+%7C+Bold+Designs" alt="Typing SVG" />
+  </a>
+
 </div>
 
+<br/>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 👤 &nbsp;**Professional Spotlight**
+
+<div align="center">
+  <img alt="Coding" width="460" src="./img/coding-gif.gif"/>
+</div>
+
+<br/>
 
 <p align="center">
-  A passionate developer interested in AI, web development, and digital marketing. 🚀
+  <strong>Aswinsai Palakonda</strong> is a high-energy <strong>Full Stack Developer</strong> and <strong>AI Enthusiast</strong> 
+  dedicated to building <i>high-performance</i> applications that bridge the gap between complex logic and <b>seamless user experience</b>. 
+  With a background in computer science and strategic marketing, he brings a unique cross-functional perspective to every project.
 </p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/__itz_aswin/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aswinsaipalakonda/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://in.pinterest.com/aswinedu1/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Aswin_2545) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Aswin-the-builder) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aswinsaipalakonda@gmail.com) 
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center"><b>🛡️ Enterprise Architecture</b><br/>Building robust systems</td>
+      <td align="center"><b>🎨 Modern Frontend</b><br/>Crafting intuitive UI</td>
+      <td align="center"><b>🧠 AI Integration</b><br/>ML-driven solutions</td>
+      <td align="center"><b>⚡ Performance</b><br/>Optimized execution</td>
+    </tr>
+  </table>
+</div>
 
-# 💻 Tech Stack:
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 🛠️ &nbsp;**Tech Arsenal**
 
 <div align="center">
 
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="60" alt="powershell logo" />
-  <!-- Frameworks & Libraries -->
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="60" alt="threejs logo" />
-  <!-- Styling -->
-  <img src="https://skillicons.dev/icons?i=sass" height="60" alt="sass logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
-  <img width="12" />
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo" />
-  <!-- Cloud & Hosting -->
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="google cloud logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="60" alt="cloudflare logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="60" alt="netlify logo" />
-  <img width="12" />
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="60" alt="gitlab logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=npm" height="60" alt="npm logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo" />
-  <img width="12" />
-  <!-- Design & Productivity -->
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="45" alt="canva logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=notion" height="60" alt="notion logo" />
+<!-- Row 1: Languages -->
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+  <br><b>Python</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+  <br><b>JavaScript</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+  <br><b>TypeScript</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+  <br><b>C</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+  <br><b>C++</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+  <br><b>PHP</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+  <br><b>HTML5</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+  <br><b>CSS3</b>
+</td>
+</tr>
+</table>
+
+<!-- Row 2: Frameworks & Libraries -->
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+  <br><b>React</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+  <br><b>Next.js</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+  <br><b>Node.js</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+  <br><b>Django</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+  <br><b>Flutter</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Three.js" />
+  <br><b>Three.js</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+  <br><b>Tailwind</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+  <br><b>Sass</b>
+</td>
+</tr>
+</table>
+
+<!-- Row 3: Databases & Cloud -->
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+  <br><b>MySQL</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+  <br><b>PostgreSQL</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+  <br><b>MongoDB</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+  <br><b>Supabase</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+  <br><b>Firebase</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+  <br><b>AWS</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
+  <br><b>GCP</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+  <br><b>Docker</b>
+</td>
+</tr>
+</table>
+
+<!-- Row 4: Tools & Platforms -->
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+  <br><b>Git</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+  <br><b>GitHub</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+  <br><b>Vercel</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
+  <br><b>Netlify</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" />
+  <br><b>Cloudflare</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+  <br><b>Vite</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+  <br><b>Figma</b>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" />
+  <br><b>Notion</b>
+</td>
+</tr>
+</table>
 
 </div>
 
-<!--
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Aswinsaipalakonda&theme=dark&hide_border=false&v=3)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aswinsaipalakonda&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
--->
+<br/>
 
----
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
-[![](https://visitcount.itsvg.in/api?id=Aswinsaipalakonda&icon=0&color=1)](https://visitcount.itsvg.in)
+<br/>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>>
+## 📉 &nbsp;**GitHub Analytics**
 
-<br clear="both">
+<div align="center">
 
+  <img height="180" src="https://nirzak-streak-stats.vercel.app/?user=Aswinsaipalakonda&theme=tokyonight&hide_border=true&border_radius=12&v=3" alt="Streak Stats"/>
+  &nbsp;&nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Aswinsaipalakonda&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 
+  <br/><br/>
+
+  <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswinsaipalakonda&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+
+</div>
+
+<br/>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aswinsaipalakonda&theme=tokyo-night&hide_border=true&radius=12&area=true" width="95%" alt="Activity Graph"/>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 🏆 &nbsp;**Achievements**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aswinsaipalakonda&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 🤝 &nbsp;**Connect With Me**
+
+<div align="center">
+
+  <a href="https://linkedin.com/in/aswinsaipalakonda/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/__itz_aswin/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/Aswin_2545" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  &nbsp;
+  <a href="https://in.pinterest.com/aswinedu1/" target="_blank">
+    <img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" />
+  </a>
+  &nbsp;
+  <a href="https://codepen.io/Aswin-the-builder" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+  </a>
+  &nbsp;
+  <a href="mailto:aswinsaipalakonda@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## ✍️ &nbsp;**Dev Quote**
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 🐍 &nbsp;**Contribution Snake**
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=120&section=footer" width="100%"/>
