@@ -27,11 +27,14 @@
 
 <br/>
 
+<!-- User Requested: Keep description in comments -->
+<!-- 
 <p align="center">
   <strong>Aswinsai Palakonda</strong> is a high-energy <strong>Full Stack Developer</strong> and <strong>AI Enthusiast</strong> 
   dedicated to building <i>high-performance</i> applications that bridge the gap between complex logic and <b>seamless user experience</b>. 
   With a background in computer science and strategic marketing, he brings a unique cross-functional perspective to every project.
 </p>
+-->
 
 <div align="center">
   <table border="0">
@@ -222,13 +225,13 @@
 
 <div align="center">
 
-  <img height="180" src="https://nirzak-streak-stats.vercel.app/?user=Aswinsaipalakonda&theme=tokyonight&hide_border=true&border_radius=12&v=3" alt="Streak Stats"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Aswinsaipalakonda&theme=tokyonight&hide_border=true&border_radius=12" alt="Streak Stats"/>
   &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Aswinsaipalakonda&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aswinsaipalakonda&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 
   <br/><br/>
 
-  <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswinsaipalakonda&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinsaipalakonda&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 
 </div>
 
@@ -236,7 +239,7 @@
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aswinsaipalakonda&theme=tokyo-night&hide_border=true&radius=12&area=true" width="95%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aswinsaipalakonda&theme=tokyo-night&hide_border=true&radius=12&area=true" width="95%" alt="Activity Graph"/>
 </div>
 
 <br/>
@@ -247,19 +250,20 @@
 
 <br/>
 
+<!-- User Requested: Keep achievements in comments -->
+<!-- 
 ## 🏆 &nbsp;**Achievements**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aswinsaipalakonda&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aswinsaipalakonda&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
+-->
 
 ## 🤝 &nbsp;**Connect With Me**
 
