@@ -16,14 +16,14 @@
             unrelenting precision and a <b>spicy</b> neon edge. 🚀
           </p>
           <a href="https://git.io/typing-svg">
-            <img src="./img/coding-gif.gif" alt="Typing SVG" />
+            <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=1800&pause=400&color=FF5F1F&width=500&lines=%E2%9A%A1+Mastering+The+Stack;%F0%9F%A7%A0+Evolving+With+AI;%F0%9F%9A%80+Deploying+Excellence;%E2%9C%A8+Cyber-Neon+Designs" alt="Typing SVG" />
           </a>
         </div>
       </td>
       <!-- Column 2: 3D Profile Frame -->
       <td width="40%" align="center" valign="middle" style="padding: 15px;">
         <div style="background: linear-gradient(135deg, rgba(255, 69, 0, 0.7), rgba(40, 42, 54, 0.9)); border: 4px solid #FF4500; border-radius: 40px; padding: 5px; box-shadow: 0 0 40px rgba(255, 69, 0, 0.6);">
-           <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/Developer.gif" width="100%" style="border-radius: 34px;" />
+           <img src="./img/coding-gif.gif" width="100%" style="border-radius: 34px;" />
         </div>
         <br/>
         <img src="https://img.shields.io/badge/STATUS-LIVE_CODING-red?style=flat-square&logo=visualstudiocode" />
