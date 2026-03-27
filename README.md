@@ -51,8 +51,6 @@
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c)
-<br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
@@ -227,7 +225,7 @@
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Aswinsaipalakonda&theme=radical&hide_border=true&border_radius=12" alt="Streak Stats"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=aswinsaipalakonda&theme=radical&hide_border=true&border_radius=12" alt="Streak Stats"/>
   &nbsp;&nbsp;
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=aswinsaipalakonda&show_icons=true&theme=radical" alt="GitHub Stats"/>
 
@@ -308,7 +306,7 @@
 ## ✍️ &nbsp;**Dev Quote**
 
 <div align="center">
-  <img src="https://quotes-github-readme-stats.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 </div>
 
 <br/>
@@ -330,6 +328,3 @@
 </div>
 
 <br/>
-
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff8c00&height=120&section=footer" width="100%"/>
