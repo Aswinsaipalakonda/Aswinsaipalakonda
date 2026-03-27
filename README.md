@@ -227,11 +227,14 @@
 
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=aswinsaipalakonda&theme=radical&hide_border=true&border_radius=12" alt="Streak Stats"/>
   &nbsp;&nbsp;
+
+  <!--
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=aswinsaipalakonda&show_icons=true&theme=radical" alt="GitHub Stats"/>
 
   <br/><br/>
 
   <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinsaipalakonda&theme=radical&layout=compact" alt="Top Languages"/>
+  -->
 
 </div>
 
