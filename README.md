@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=280&section=header&text=Aswinsai%20Palakonda%20&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20AI%20Innovator%20%7C%20Strategic%20Thinker&descSize=20&descAlignY=55&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff8c00&height=280&section=header&text=Aswinsai%20Palakonda%20&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20AI%20Innovator%20%7C%20Strategic%20Thinker&descSize=20&descAlignY=55&descColor=ffffff" width="100%"/>
 
 <br/>
 
@@ -7,9 +7,9 @@
 
   <h1> Hi <img src="./img/hi-gif.gif" width="45">, I'm Aswinsai <img src="./img/sunglasses.gif" width="40"> </h1>
 
-  <!-- Typing Animation - Vibrant Blue -->
+  <!-- Typing Animation - Vibrant Orange -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&repeat=true&random=false&width=600&lines=%E2%9C%A8+Architecting+the+Future+with+Code;%F0%9F%9A%80+Full+Stack+Development+%26+AI;%F0%9F%A7%A0+Leveraging+Tech+to+Solve+Problems;%F0%9F%92%8E+Clean+Architecture+%7C+Bold+Designs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&repeat=true&random=false&width=600&lines=%E2%9C%A8+Architecting+the+Future+with+Code;%F0%9F%9A%80+Full+Stack+Development+%26+AI;%F0%9F%A7%A0+Leveraging+Tech+to+Solve+Problems;%F0%9F%92%8E+Clean+Architecture+%7C+Bold+Designs" alt="Typing SVG" />
   </a>
 
 </div>
@@ -51,6 +51,8 @@
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c)
+<br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
@@ -225,13 +227,13 @@
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Aswinsaipalakonda&theme=tokyonight&hide_border=true&border_radius=12" alt="Streak Stats"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Aswinsaipalakonda&theme=radical&hide_border=true&border_radius=12" alt="Streak Stats"/>
   &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aswinsaipalakonda&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aswinsaipalakonda&show_icons=true&theme=radical" alt="GitHub Stats"/>
 
   <br/><br/>
 
-  <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinsaipalakonda&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinsaipalakonda&theme=radical&layout=compact" alt="Top Languages"/>
 
 </div>
 
@@ -239,7 +241,7 @@
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aswinsaipalakonda&theme=tokyo-night&hide_border=true&radius=12&area=true" width="95%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aswinsaipalakonda&theme=radical&hide_border=true&radius=12&area=true" width="95%" alt="Activity Graph"/>
 </div>
 
 <br/>
@@ -255,7 +257,7 @@
 ## 🏆 &nbsp;**Achievements**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aswinsaipalakonda&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aswinsaipalakonda&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
 </div>
 
 <br/>
@@ -306,7 +308,7 @@
 ## ✍️ &nbsp;**Dev Quote**
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme-stats.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 </div>
 
 <br/>
@@ -330,4 +332,4 @@
 <br/>
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0077b6&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff8c00&height=120&section=footer" width="100%"/>
