@@ -142,8 +142,8 @@
   <br><b>Django</b>
 </td>
 <td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
-  <br><b>Flutter</b>
+  <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
+  <br><b>WordPress</b>
 </td>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Three.js" />
