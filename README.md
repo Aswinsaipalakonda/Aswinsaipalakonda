@@ -1,7 +1,7 @@
 <!-- 🌌 THE CYBER-ELITE DASHBOARD 🌌 -->
 <div align="center">
 
-  <!-- 🚀 PREMIUM HERO IMAGE -->
+  <!-- 🚀 PREMIUM HERO IMAGE 
   <br/>
   <div style="background: linear-gradient(135deg, #FF4500, #FFD700); border-radius: 50px; padding: 2px; box-shadow: 0 0 50px rgba(255, 69, 0, 0.4); display: inline-block; width: 100%; max-width: 550px;">
     <div style="background: #0d1117; border-radius: 48px; padding: 5px;">
@@ -20,6 +20,14 @@
   <!-- 👑 TITULAR SECTION -->
   <h1 style="color: #FF8C00; text-shadow: 0 0 20px #FF4500; font-size: 3.8em; margin: 0;"><b>Aswinsai Palakonda</b></h1>
   <p style="color: #FFD700; font-size: 1.5em; font-weight: 300; letter-spacing: 2px;">ARCHITECTING THE FUTURE OF CODE</p>
+
+  <p align="centre">
+  <img
+    alt="Pixel art GIF"
+    width="180"
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZwZHM4bTNoNjd3cmx5NDI5a3VnODNlN2VqYmlvNG8xdG93N2RsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5xRW2cUKfcyQg/giphy.gif"
+  />
+</p>
 
   <br/>
 
