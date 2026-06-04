@@ -18,7 +18,7 @@
   <br/><br/>
 
   <!-- 👑 TITULAR SECTION -->
-  <h1 style="color: #FF8C00; text-shadow: 0 0 20px #FF4500; font-size: 3.8em; margin: 0;"><b>Aswinsai Palakonda</b></h1>
+  <h1 style="color: #FF8C00; text-shadow: 0 0 20px #FF4500; font-size: 3.8em; margin: 0;"><b>Palakonda Aswinsai</b></h1>
   <p style="color: #FFD700; font-size: 1.5em; font-weight: 300; letter-spacing: 2px;">ARCHITECTING THE FUTURE OF CODE</p>
 
   <p align="centre">
