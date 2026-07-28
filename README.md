@@ -63,7 +63,7 @@
         <div style="background: linear-gradient(135deg, #FF4500 0%, #0d1117 100%); border-radius: 30px; padding: 2px; box-shadow: 0 5px 25px rgba(255, 69, 0, 0.4);">
           <div style="background-color: #0d1117; border-radius: 28px; padding: 15px;">
             <b style="color: #FFD700; text-shadow: 0 0 10px #FF8C00; font-size: 1.3em;">📊 Streak Mastery</b><br/><br/>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=aswinsaipalakonda&theme=radical&hide_border=true&border_radius=15" width="100%"/>
+            <img src="https://streak-stats.demolab.com?user=Aswinsaipalakonda&theme=radical&hide_border=true&border_radius=15" width="100%"/>
           </div>
         </div>
       </td>
@@ -90,161 +90,79 @@
   <h2 style="color: #FFD700; text-shadow: 0 0 15px #FF4500; font-size: 2.5em; letter-spacing: 3px;"><b>🛠️ THE TECH ARSENAL</b></h2>
   <br/>
 
-<div style="background: rgba(255, 69, 0, 0.05); border: 1px solid rgba(255, 69, 0, 0.2); border-radius: 40px; padding: 30px; display: inline-block;">
+  <h3 style="color: #ffffff;">Things I Use On A Daily Basis</h3>
+  <p align="left">
+    <a href="https://github.com/harish-sethuraman/readme-components">
+      <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe" />
+    </a>
+    <a href="https://github.com/harish-sethuraman/readme-components">
+      <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7" />
+    </a>
+    <a href="https://github.com/harish-sethuraman/readme-components">
+      <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c" />
+    </a>
+    <a href="https://github.com/harish-sethuraman/readme-components">
+      <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=nextdotjs&svgfill=ffffff" />
+    </a>
+    <a href="https://github.com/harish-sethuraman/readme-components">
+      <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60" />
+    </a>
+    <a href="https://github.com/harish-sethuraman/readme-components">
+      <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgfill=38bdf8" />
+    </a>
+    <a href="https://github.com/harish-sethuraman/readme-components">
+      <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799" />
+    </a>
+    <a href="https://github.com/harish-sethuraman/readme-components">
+      <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github&svgfill=ffffff" />
+    </a>
+  </p>
 
-<!-- Row 1: Languages & Core -->
-<table>
-<tr>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-  <br><b>Python</b>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-  <br><b>JavaScript</b>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
-  <br><b>TypeScript</b>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-  <br><b>C</b>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-  <br><b>C++</b>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-  <br><b>PHP</b>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-  <br><b>HTML5</b>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-  <br><b>CSS3</b>
-</td>
-</tr>
-</table>
-
-<!-- Row 2: Frameworks & Libraries -->
-<table>
-<tr>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-  <br><b>React</b>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-  <br><b>Next.js</b>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-  <br><b>Node.js</b>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
-  <br><b>Django</b>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-  <br><b>WordPress</b>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Three.js" />
-  <br><b>Three.js</b>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-  <br><b>Tailwind</b>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-  <br><b>Sass</b>
-</td>
-</tr>
-</table>
-
-<!-- Row 3: Databases & Cloud -->
-<table>
-<tr>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-  <br><b>MySQL</b>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-  <br><b>PostgreSQL</b>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-  <br><b>MongoDB</b>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
-  <br><b>Supabase</b>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-  <br><b>Firebase</b>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-  <br><b>AWS</b>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
-  <br><b>GCP</b>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-  <br><b>Docker</b>
-</td>
-</tr>
-</table>
-
-<!-- Row 4: Tools & Platforms -->
-<table>
-<tr>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-  <br><b>Git</b>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-  <br><b>GitHub</b>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
-  <br><b>Vercel</b>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
-  <br><b>Netlify</b>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" />
-  <br><b>Cloudflare</b>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
-  <br><b>Vite</b>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-  <br><b>Figma</b>
-</td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" />
-  <br><b>Notion</b>
-</td>
-</tr>
-</table>
-
-</div>
+  <h3 style="color: #ffffff;">Core Skills</h3>
+  <p align="left">
+    <a href="https://github.com/harish-sethuraman/readme-components">
+      <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=3776ab" />
+    </a>
+    <a href="https://github.com/harish-sethuraman/readme-components">
+      <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=django&svgfill=44b78b" />
+    </a>
+    <a href="https://github.com/harish-sethuraman/readme-components">
+      <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629" />
+    </a>
+    <a href="https://github.com/harish-sethuraman/readme-components">
+      <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1" />
+    </a>
+    <a href="https://github.com/harish-sethuraman/readme-components">
+      <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=4479a1" />
+    </a>
+    <a href="https://github.com/harish-sethuraman/readme-components">
+      <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgresql&svgfill=4169e1" />
+    </a>
+    <a href="https://github.com/harish-sethuraman/readme-components">
+      <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=47a248" />
+    </a>
+    <a href="https://github.com/harish-sethuraman/readme-components">
+      <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=ffca28" />
+    </a>
+    <a href="https://github.com/harish-sethuraman/readme-components">
+      <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=supabase&svgfill=3ecf8e" />
+    </a>
+    <a href="https://github.com/harish-sethuraman/readme-components">
+      <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&svgfill=2496ed" />
+    </a>
+    <a href="https://github.com/harish-sethuraman/readme-components">
+      <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=f05032" />
+    </a>
+    <a href="https://github.com/harish-sethuraman/readme-components">
+      <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=figma&svgfill=f24e1e" />
+    </a>
+    <a href="https://github.com/harish-sethuraman/readme-components">
+      <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vercel&svgfill=ffffff" />
+    </a>
+    <a href="https://github.com/harish-sethuraman/readme-components">
+      <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vite&svgfill=646cff" />
+    </a>
+  </p>
 </div>
 
 <br/><hr style="border: 1px solid #FF4500;"/><br/>
