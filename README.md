@@ -221,11 +221,11 @@
 </div>
 
 <br/>
-
+<!--
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aswinsaipalakonda&theme=radical&hide_border=true&radius=30&area=true" width="95%" />
 </div>
-
+-->
 <br/>
 
 <!-- 🤝 CONNECT 🤝 -->
